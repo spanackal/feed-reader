@@ -8,7 +8,8 @@ This Feed Reader Testing Project was created as part of one of the Projects for 
 
 ##Option 1:
 * The website is hosted [here](https://spanackal.github.io/feed-reader).
-* Once the webpage loads up , there will be test at the bottom of the page which says "~ specs, ~ failures" and if all tests pass, there will be a text saying that there are 0 failures.
+* Please make sure that if there is a pop up blocker saying that 'Insecure content blocked', please click on the 'load Unsafe Scripts' link in the pop up.
+* Once the web page loads up , there will be test at the bottom of the page which says "~ specs, ~ failures" and if all tests pass, there will be a text saying that there are 0 failures.
 
 
 ##Option 2:
